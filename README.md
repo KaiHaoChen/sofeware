@@ -1,9 +1,11 @@
-# sofeware
-常用变成软件安装配置
-
+## 开发工具
 - git
-- jdk
 - marktext
-- maven 
-- node-js
+
+## 编程工具
+- jdk
 - python
+- node-js
+- maven 
+
+
